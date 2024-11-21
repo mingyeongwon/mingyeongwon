@@ -14,12 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://github.com/mingyeongwon/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mingyeongwon&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=fff&icon_color=006241&text_color=000&title_color=006241&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
-</a>    
-<a href="https://github.com/mingyeongwon/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=mingyeongwon&show_icons=true&theme=material-palenight&hide_border=true&bg_color=fff&icon_color=006241&text_color=000&title_color=006241&count_private=true" width=56% />
-</a>
+<div align="center">
+    <a href="https://github.com/mingyeongwon/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mingyeongwon&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=fff&icon_color=006241&text_color=000&title_color=006241&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+    </a>    
+    <a href="https://github.com/mingyeongwon/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=mingyeongwon&show_icons=true&theme=material-palenight&hide_border=true&bg_color=fff&icon_color=006241&text_color=000&title_color=006241&count_private=true" width=56% />
+    </a>
+</div>
+
 <br>
 <br>
 <br>
