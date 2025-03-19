@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 </div>
 
 <br>
-<!-- BLOG-POST-LIST:START -->
+<!-- LATEST_POSTS -->
 
-<!-- BLOG-POST-LIST:END -->
+<!-- LATEST_POSTS_END -->
 <br>
 <br>
 <p align="center">
