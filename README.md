@@ -26,6 +26,12 @@ Here are some ideas to get you started:
 <br>
 <!-- LATEST_POSTS -->
 
+1. <a href="https://steadi1y.tistory.com/307" target="_blank">IntelliJ Debugging 방법</a>
+2. <a href="https://steadi1y.tistory.com/305" target="_blank">Git 폴더 옮기기</a>
+3. <a href="https://steadi1y.tistory.com/304" target="_blank">Java 보안적으로 Random보다 SecureRandom을 사용하자</a>
+4. <a href="https://steadi1y.tistory.com/302" target="_blank">Git 여러 개의 repository 하나로 합치기</a>
+5. <a href="https://steadi1y.tistory.com/299" target="_blank">ResponseEntity 사용하는 이유와 @ResponseBody</a>
+
 <!-- LATEST_POSTS_END -->
 <br>
 <br>
