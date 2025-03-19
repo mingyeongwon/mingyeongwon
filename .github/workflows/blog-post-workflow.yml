@@ -19,4 +19,4 @@ jobs:
           max_post_count: 5
           feed_list: "https://steadi1y.tistory.com/rss"
           user_agent: "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
-          accept_header: "text/xml"
+          accept_header: "application/rss+xml"
