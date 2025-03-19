@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 </div>
 
 <br>
+
+## 📄 최근 블로그 포스팅
 <!-- LATEST_POSTS -->
 
 1. <a href="https://steadi1y.tistory.com/307" target="_blank">IntelliJ Debugging 방법</a>
