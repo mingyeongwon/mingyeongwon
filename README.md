@@ -28,11 +28,11 @@ Here are some ideas to get you started:
 ## 📄 최근 블로그 포스팅
 <!-- LATEST_POSTS -->
 
-1. <a href="https://steadi1y.tistory.com/309" target="_blank">JAR vs WAR 배포 차이</a>
-2. <a href="https://steadi1y.tistory.com/307" target="_blank">IntelliJ Debugging 방법</a>
-3. <a href="https://steadi1y.tistory.com/305" target="_blank">Git 폴더 옮기기</a>
-4. <a href="https://steadi1y.tistory.com/304" target="_blank">Java 보안적으로 Random보다 SecureRandom을 사용하자</a>
-5. <a href="https://steadi1y.tistory.com/302" target="_blank">Git 여러 개의 repository 하나로 합치기</a>
+1. <a href="https://steadi1y.tistory.com/317" target="_blank">DB JOIN과 서브 쿼리 성능 차이</a>
+2. <a href="https://steadi1y.tistory.com/309" target="_blank">JAR vs WAR 배포 차이</a>
+3. <a href="https://steadi1y.tistory.com/307" target="_blank">IntelliJ Debugging 방법</a>
+4. <a href="https://steadi1y.tistory.com/305" target="_blank">Git 폴더 옮기기</a>
+5. <a href="https://steadi1y.tistory.com/304" target="_blank">Java 보안적으로 Random보다 SecureRandom을 사용하자</a>
 
 <!-- LATEST_POSTS_END -->
 <br>
